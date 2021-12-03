@@ -1,0 +1,2 @@
+rootProject.name = "sqLite"
+include ':app'
